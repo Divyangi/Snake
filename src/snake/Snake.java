@@ -85,7 +85,7 @@ if(ke.getKeyCode() == KeyEvent.VK_LEFT)
     }
    
    
-    
+    //method to paint
     public void paint(Graphics g) {
         
         //g.drawString("This is stringggg", 10, 50);
